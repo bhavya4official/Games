@@ -1,3 +1,3 @@
 # Games
 
-Small games on Python language
+Some fun little games on different programming languages.
